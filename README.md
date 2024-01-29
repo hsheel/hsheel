@@ -14,6 +14,6 @@ I bring a strong foundation in these skills, coupled with a passion for delving 
 
 
 More about me:
-[Linkedin](https://www.linkedin.com/in/hamida-sheel-a65b2594/)
+* [Linkedin](https://www.linkedin.com/in/hamida-sheel-a65b2594/)
 
 
