@@ -11,4 +11,6 @@ As a current participant in the Bootcamp Programme at Just IT Training, I am ded
 * Python
 
 I bring a strong foundation in these skills, coupled with a passion for delving into the intricacies of data analysis. This combination positions me as a motivated and adept individual ready to contribute effectively to the field of data analytics.
-Linkedin Account [Linkedin](https://www.linkedin.com/in/hamida-sheel-a65b2594/![image](https://github.com/hsheel/hsheel/assets/12877849/1d5050d0-450c-48ab-a330-5039b33fc46d)
+Linkedin Account [Linkedin](https://www.linkedin.com/in/hamida-sheel-a65b2594/)
+
+
