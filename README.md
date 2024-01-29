@@ -13,6 +13,7 @@ As a current participant in the Bootcamp Programme at Just IT Training, I am ded
 I bring a strong foundation in these skills, coupled with a passion for delving into the intricacies of data analysis. This combination positions me as a motivated and adept individual ready to contribute effectively to the field of data analytics.
 
 
-My linked: [click Here](https://www.linkedin.com/in/hamida-sheel-a65b2594/)
+More about me:
+[Linkedin](https://www.linkedin.com/in/hamida-sheel-a65b2594/)
 
 
