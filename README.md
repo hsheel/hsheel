@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**hsheel/hsheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a MSc graduate in Risk and Disaster Science from UCL, holding a first-class BSc in Mathematics.
 
-Here are some ideas to get you started:
+As a current participant in the Bootcamp Programme at Just IT Training, I am dedicated to enhancing my skills for a data analyst role. My enthusiastic interest in data analysis is driving my commitment to building proficiency in the following key areas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data analysis using Excel, Pivot tables, and charts
+* Data visualization using Microsoft Power BI
+* Data visualization using Tableau 
+* SQL
+* Python
+
+I bring a strong foundation in these skills, coupled with a passion for delving into the intricacies of data analysis. This combination positions me as a motivated and adept individual ready to contribute effectively to the field of data analytics.
+Linkedin Account [Linkedin](https://www.linkedin.com/in/hamida-sheel-a65b2594/![image](https://github.com/hsheel/hsheel/assets/12877849/1d5050d0-450c-48ab-a330-5039b33fc46d)
