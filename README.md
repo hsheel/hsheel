@@ -1,4 +1,4 @@
-### Hi there 👋
+### Personal Profile
 
 I am a MSc graduate in Risk and Disaster Science from UCL, holding a first-class BSc in Mathematics.
 
@@ -15,5 +15,8 @@ I bring a strong foundation in these skills, coupled with a passion for delving 
 
 More about me:
 * [Linkedin](https://www.linkedin.com/in/hamida-sheel-a65b2594/)
+* [Tableau] ()
+* 
 
-
+### Key Skills 
+Power BI, SQL, R studio, Python, Excel, Tableau 
