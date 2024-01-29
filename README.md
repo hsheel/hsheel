@@ -17,7 +17,9 @@ I bring a strong foundation in these skills, coupled with a passion for delving 
 
 
 
-Skills: Power BI, SQL, R studio, Python, Excel, Tableau 
+### Skills and Experience 
+
+ Power BI, SQL, R studio, Python, Excel, Tableau 
 
 - 🔭 I’m currently working on this page. 
 
